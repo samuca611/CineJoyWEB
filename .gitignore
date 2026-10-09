@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+dist/
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+*.zip
+.env
+.env.local
