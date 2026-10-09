@@ -13,8 +13,8 @@ Abra o PowerShell na pasta do projeto e execute:
 
 ```powershell
 cd frontend
-pnpm install
-pnpm run dev
+npm install
+npm run dev
 ```
 
 Depois acesse:
@@ -23,12 +23,12 @@ Depois acesse:
 http://localhost:3000
 ```
 
-Se preferir usar npm:
+Se preferir usar pnpm:
 
 ```powershell
 cd frontend
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 ## Observacao
